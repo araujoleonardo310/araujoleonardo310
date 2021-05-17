@@ -20,6 +20,8 @@ Meu nome é Leonardo, tenho 26 anos, estou graduando em Sistemas de Informação
 <h3>Hard Skills ​💻​👨‍💻​</h3>
 
 <p align="center">
+    <img height="40" src="https://user-images.githubusercontent.com/81859569/118542169-0330bd00-b729-11eb-9f31-88f0dbb5bd79.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
