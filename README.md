@@ -3,10 +3,13 @@
 
 <div align="center">
 	<h2>Seja bem-vindo(a)! :smile: :sparkles: </h2> 
-	<p>
-Meu nome é Leonardo, tenho 26 anos, sou e moro no Ceará, estou graduando em Sistemas de Informação.<br> Apaixonei-me pela carreira de developer por isso, decide criar uma só para mim ^^
-	</p>
 </div>
+
+
+<p align="justify">💬 Meu nome é Leonardo, mas gosto de ser chamado por Leo :wave: , tenho 26 anos, sou do Ceará.</p>
+<p align="justify">💬 Estou graduando em Sistemas de Informação.👨🏼‍🎓​💻​📱​</p>
+<p align="justify">💬 Apaixonei-me pela carreira de developer por isso, decide criar uma só para mim ^^</p>
+
 
 <h3>Soft Skills 📌</h3>
 <p align="center">
@@ -21,7 +24,7 @@ Meu nome é Leonardo, tenho 26 anos, sou e moro no Ceará, estou graduando em Si
 -- Participativo
 </p>
 
-<h3>Hard Skills ​💻​</h3>
+<h3>Hard Skills 👨‍💻​</h3>
 
 <p align="center">
     <img height="40" src="https://user-images.githubusercontent.com/81859569/118542169-0330bd00-b729-11eb-9f31-88f0dbb5bd79.png">
