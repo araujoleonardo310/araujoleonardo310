@@ -13,15 +13,19 @@
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seja bem-vindo(a)! :smile: :sparkles: 
 </p>
 <hr/>
-<p align="justify">Sou universitário de Sitemas de Informação, tenho 26 anos, solteiro e moro no Ceará.</p>
-<p align="justify">Apaixonei-me pela carreira de developer, por isso decide criar uma só pra mim ^^</p>
-<p align="justify">Disponível para processos para vagas de nível estágiário ou júnior de Web Developer</p>
-<br/>
+<p align="justify">Meu nome é Leonardo, mas gosto ser chamado por Leo, tenho 26 anos, resido no Ceará/Brasil. Faço graduação de Sistema de Informação (2° período) pela Universidade Estácio de Ribeirão Preto (EAD). Decide criar carreira de Developer, porque me identifiquei com a profissão e tenho um fascínio pelo desenvolvimento Web-aplicações, e programação de sistemas.
+</p>
+
+<p align="justify">Estou procurando e tenho interesse para vagas de Web-Developer (estágio ou cargo júnior). 
+</p>
+
+<p align="justify">Meu atual inglês é básico, mas avanço-o para atingir nível fluente, pois proporcionará grande ajuda na leitura de documentações. 
+</p>
 
 <h3>Soft Skills 📌</h3>
 <p align="center">
 -- Criativo 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
 -- Responsável
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 -- Comunicativo
