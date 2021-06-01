@@ -53,7 +53,7 @@
 </p>
 <br/>
 
-![Leonardo Araújo's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujoleonardo310&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&layout=compact)](https://github.com/araujoleonardo310/github-readme-stats)
+![Leonardo Araújo's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujoleonardo310&count_private=true)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&layout=compact)](https://github.com/araujoleonardo310/github-readme-stats)
 
 
 
