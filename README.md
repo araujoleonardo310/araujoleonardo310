@@ -16,7 +16,7 @@
 <p align="justify">Sou universitário de Sitemas de Informação, tenho 26 anos, solteiro e moro no Ceará.</p>
 <p align="justify">Apaixonei-me pela carreira de developer, por isso decide criar uma só pra mim ^^</p>
 <p align="justify">Disponível para processos para vagas de nível estágiário ou júnior de Web Developer</p>
-<br/> <br/>
+<br/>
 
 <h3>Soft Skills 📌</h3>
 <p align="center">
@@ -51,7 +51,7 @@
 </p>
 <br/>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=araujoleonardo310&count_private=true&theme=tokyonight&showicons=true)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&langs_count=5&theme=tokyonight)]()  
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=araujoleonardo310&count_private=true&theme=tokyonight&showicons=true)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&langs_count=5&theme=tokyonight)]()  
 
 
 
