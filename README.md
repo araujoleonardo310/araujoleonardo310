@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/leonardoaraujo310/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/leonardoaraujo310/">
     </a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seja bem-vindo(a)! :smile: :sparkles: 
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Seja bem-vindo(a)!</strong> :smile: :sparkles: 
 </p>
 <hr/>
 <p align="justify">Meu nome é Leonardo, mas gosto ser chamado por Leo, tenho 26 anos, resido no Ceará/Brasil. Faço graduação de Sistema de Informação (2° período) pela Universidade Estácio de Ribeirão Preto (EAD). Decide criar carreira de Developer, porque me identifiquei com a profissão e tenho um fascínio pelo desenvolvimento Web-aplicações, e programação de sistemas.
