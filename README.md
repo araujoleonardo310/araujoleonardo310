@@ -53,7 +53,7 @@
 </p>
 <br/>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=araujoleonardo310&count_private=true&theme=tokyonight&showicons=true)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&langs_count=5&theme=tokyonight)]()  
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=araujoleonardo310&count_private=true&theme=tokyonight&showicons=true)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&langs_count=5&theme=tokyonight&showicons=true)]()  
 
 
 
