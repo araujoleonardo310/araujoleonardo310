@@ -13,10 +13,10 @@
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Seja bem-vindo(a)!</strong> :smile: :sparkles: 
 </p>
 <hr/>
-<p align="justify">
-	Meu nome é Leonardo, mas gosto ser chamado por Leo. Faço graduação de Sistema de Informação (1° período) pela Universidade Estácio (EAD). 
-<br>
-	Decidi seguir carreira de Developer porque me identifiquei com a profissão. Tenho boa compreensão de pensamento lógico, gosto da matemática e tenho fascínio pelo desenvolvimento Webpages, Web-aplicações e programação de sistemas.
+<p align="justify">Meu nome é Leonardo, mas gosto ser chamado por Leo. Faço graduação de Sistema de Informação (1° período) pela Universidade Estácio (EAD). 
+</p>
+
+<p align="justify">Decidi seguir carreira de Developer porque me identifiquei com a profissão. Tenho boa compreensão de pensamento lógico, gosto da matemática e tenho fascínio pelo desenvolvimento Webpages, Web-aplicações e programação de sistemas.
 </p>
 
 <p align="justify">Estou procurando e tenho interesse para vagas de Web-Developer (estágio ou cargo júnior). 
