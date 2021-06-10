@@ -2,7 +2,7 @@
     <a href="https://github.com/araujoleonardo310">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/araujoleonardo310">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
     <a href="mailto:araujoleonardo310@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:araujoleonardo310@gmail.com">
     </a>
@@ -13,6 +13,7 @@
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Seja bem-vindo(a)!</strong> :smile: :sparkles: 
 </p>
 <hr/>
+
 <p align="justify">Meu nome é Leonardo, mas gosto ser chamado por Leo. Faço graduação de Sistema de Informação (1° período) pela Universidade Estácio (EAD). 
 </p>
 
@@ -56,7 +57,10 @@
 </p>
 <br/>
 
-![Leonardo Araújo's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujoleonardo310&count_private=true)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&layout=compact)](https://github.com/araujoleonardo310/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujoleonardo310&theme=dark&show_icons=true)
+
+
 
 
 
