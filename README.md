@@ -1,32 +1,19 @@
-<p align="left">
-    <a href="https://github.com/araujoleonardo310">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/araujoleonardo310">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
-    <a href="mailto:araujoleonardo310@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:araujoleonardo310@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/leonardoaraujo310/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/leonardoaraujo310/">
-    </a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Seja bem-vindo(a)!</strong> :smile: :sparkles: 
-</p>
-<hr/>
+# Seja bem-vindo(a)!</strong> :smile: :sparkles: 
 
 <p align="justify">Meu nome é Leonardo, mas gosto ser chamado por Leo. Faço graduação de Sistema de Informação (1° período) pela Universidade Estácio (EAD). 
 </p>
 
-<p align="justify">Decidi seguir carreira de Developer porque me identifiquei com a profissão. Tenho boa compreensão de pensamento lógico, gosto da matemática e tenho fascínio pelo desenvolvimento Webpages, aplicações e programação de sistemas.
+<p align="justify">Decidi seguir carreira de Developer porque me identifiquei com a profissão. Tenho bom pensamento lógico, gosto da matemática e tenho fascínio pelo desenvolvimento Websites, interfaces gráficas e aplicações.
 </p>
 
-<p align="justify">Estou procurando e tenho interesse para vagas de Web-Developer (estágio ou cargo júnior). 
+<p align="justify">Estou procurando e tenho interesse para vagas de Web-Developer/WebDesign (estágio ou cargo júnior). 
 </p>
 
 <p align="justify">Meu atual inglês é básico, mas avanço-o para atingir nível fluente, pois proporcionará grande ajuda na leitura de documentações. 
 </p>
 
-<h3>Soft Skills 📌</h3>
+## Soft Skills 📌
+<br>
 <p align="center">
 -- Criativo 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
@@ -39,7 +26,8 @@
 -- Participativo
 </p>
 
-<h3>Hard Skills 👨‍💻​</h3>
+## Hard Skills 👨‍💻
+<br>
 <p align="center">
     <img height="40" src="https://user-images.githubusercontent.com/81859569/118542169-0330bd00-b729-11eb-9f31-88f0dbb5bd79.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,7 +48,21 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujoleonardo310&theme=dark&show_icons=true)
 
-
+## Contact 
+<br>
+<p align="left">
+    <a href="https://github.com/araujoleonardo310">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/araujoleonardo310">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
+    <a href="mailto:araujoleonardo310@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:araujoleonardo310@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/leonardoaraujo310/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/leonardoaraujo310/">
+    </a>
+</p>
 
 
 
