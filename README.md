@@ -1,4 +1,4 @@
-# Seja bem-vindo(a)!</strong> :smile: :sparkles: 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/> Hi, there!</h1>
 
 <p align="justify">Meu nome é Leonardo, mas gosto ser chamado por Leo. Faço graduação de Sistema de Informação (1° período) pela Universidade Estácio (EAD). 
 </p>
