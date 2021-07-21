@@ -1,13 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/> Quais as novidades?</h1>
 
 <div align=center>
-    <p> Sou estudande de Sistemas de Informação 📱💻</p>
+    <p> Sou estudante de Sistemas de Informação 📱💻</p>
     <p> Web desenvolvedor 🚀🌐 </p>
     <p> Ler 📚 é vida 🥰❤️ <p>
 </div>
 <br>
 
-## __Soft Skills__ 📌
+## Soft Skills 📌
 <br>
 
 <p align="center">
@@ -21,7 +21,7 @@ Comunicativo ❕❔🗨
 </p>
 <br>
 
-## __Hard Skills__ 👨‍💻
+## Hard Skills 👨‍💻
 <br>
 
 <p align="center">
