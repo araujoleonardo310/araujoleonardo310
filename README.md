@@ -1,32 +1,32 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/> Tudo bem?</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/> Quais as novidades?</h1>
 
 
 <p> Sou estudande de Sistemas de Informação 📱💻</p>
 <p> Web desenvolvedor 🚀🌐 </p>
 <p> Ler 📚 é vida 🥰❤️ <p>
-
 <br>
 
-
-## Soft Skills 📌
+## __Soft Skills__ 📌
 <br>
 
 <p align="center">
- Criativo 💭💡
+Criativo 💭💡
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
 Colaborador 🤝🙋‍♂️
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-Aberto a novos desafios 🎯🏃‍♂️
+Aberto para desafios 🎯🏃‍♂️
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Comunicativo ❕❔🗨
 </p>
 <br>
 
-## Hard Skills 👨‍💻
+## __Hard Skills__ 👨‍💻
 <br>
 
 <p align="center">
     <img height="40" src="https://user-images.githubusercontent.com/81859569/118542169-0330bd00-b729-11eb-9f31-88f0dbb5bd79.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-line.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
