@@ -12,13 +12,13 @@
 <br>
 
 <p align="center">
--- Criativo 
+ Criativo 💭💡
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
--- Colaborador
+Colaborador 🤝🙋‍♂️
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
--- Aberto a novos desafios
+Aberto a novos desafios 🎯🏃‍♂️
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
--- Comunicativo 
+Comunicativo ❕❔🗨
 </p>
 <br>
 
