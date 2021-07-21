@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/> Quais as novidades?</h1>
 
 
-<p> Sou estudande de Sistemas de Informação 📱💻</p>
-<p> Web desenvolvedor 🚀🌐 </p>
-<p> Ler 📚 é vida 🥰❤️ <p>
+<p align=center> Sou estudande de Sistemas de Informação 📱💻</p>
+<p align=center> Web desenvolvedor 🚀🌐 </p>
+<p align=center> Ler 📚 é vida 🥰❤️ <p>
 <br>
 
 ## __Soft Skills__ 📌
