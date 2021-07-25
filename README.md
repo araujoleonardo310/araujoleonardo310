@@ -10,6 +10,7 @@
         <span><em>Sistemas de Informação <img src="https://i.imgur.com/ZylEkDh.png" height=25em></em></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <span><em>Desenvolvedor Web <img src="https://i.imgur.com/7RDi7Ox.png" height=25em><img src="https://i.imgur.com/vBUxGuu.png" height=25em></em></span>
     </div>
+    <br>
     <p><em>Leitura é vida <img src="https://i.imgur.com/qgcu1zG.png" height=25em></em><p>
 </div>
 <br>
