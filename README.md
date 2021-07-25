@@ -43,8 +43,6 @@ Comunicativo ❕❔🗨
 </p>
 <br>
 
-
-
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=araujoleonardo310&theme=dark&show_icons=true" height="150em" align=center>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&layout=compact" height="160em" align=center>
