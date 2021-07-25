@@ -1,7 +1,7 @@
 <h2><img src="https://i.imgur.com/oMwfryH.png" width="60"/><em><strong> Quais são as novidades?</strong></em></h2>
 <br>
 
-<h2><em>Biografria<em></h2>
+<h3><em>Biografria</em></h3>
 <hr>
 
 <div align=left>
@@ -21,7 +21,7 @@
 <hr>
 <br>
 
-<p align="center">
+<div align="center">
     <img height="40" src="https://user-images.githubusercontent.com/81859569/118542169-0330bd00-b729-11eb-9f31-88f0dbb5bd79.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-line.svg">
@@ -37,7 +37,7 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">       
-</p>
+</div>
 <br/>
 
 
@@ -63,7 +63,7 @@
 <br>
 
 
-<h2><em>Contact<em> <img src="https://image.flaticon.com/icons/png/512/3454/3454856.png" height=25em></h2>
+<h3><em>Contact</em> <img src="https://image.flaticon.com/icons/png/512/3454/3454856.png" height=25em></h2>
 <hr> 
 <br>
 <p align="left">
