@@ -1,5 +1,8 @@
-<h1><img src="https://i.imgur.com/oMwfryH.png" width="60"/> Quais são as novidades?</h1>
+<h2><img src="https://i.imgur.com/oMwfryH.png" width="60"/><em><strong> Quais são as novidades?</strong></em></h2>
 <br>
+
+<h2><em>Biografria<em></h2>
+<hr>
 
 <div align=left>
     <p>Sou Universitário <img src="https://i.imgur.com/RnxPlAo.png" height=25em></p>
@@ -15,6 +18,7 @@
 <br>
 
 <img src="https://image.flaticon.com/icons/png/512/2942/2942789.png" height=30em> ***Hard Skills*** 
+<hr>
 <br>
 
 <p align="center">
@@ -36,7 +40,15 @@
 </p>
 <br/>
 
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=araujoleonardo310&theme=dark&show_icons=true" height="150em" align=center>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&layout=compact" height="160em" align=center>
+</div>
+<br>
+
 <img src="https://image.flaticon.com/icons/png/512/273/273573.png" height=25em> ***Soft Skills***
+<hr>
 <br>
 
 <div align="center">
@@ -50,13 +62,9 @@
 </div>
 <br>
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=araujoleonardo310&theme=dark&show_icons=true" height="150em" align=center>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&layout=compact" height="160em" align=center>
-</div>
-<br>
 
-## Contact 📱
+<h2><em>Contact<em> <img src="https://image.flaticon.com/icons/png/512/3454/3454856.png" height=25em></h2>
+<hr> 
 <br>
 <p align="left">
     <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5585988511269&text=Prazer%2C%20sou%20Leonardo%20Ara%C3%BAjo%2C%20mas%20gosto%20de%20ser%20chamado%20por%20Leo.%0ASou%20universit%C3%A1rio%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%2C%0A%0AComo%20posso%20ajudar%3F">
