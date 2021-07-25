@@ -1,27 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/> Quais as novidades?</h1>
+<h1><img src="https://img-premium.flaticon.com/png/512/688/premium/688460.png?token=exp=1627215564~hmac=e7282d29d045bcd3146624308984b61d" width="60"/> Quais são as novidades?</h1>
 
-<div align=center>
-    <p> Sou estudande de Sistemas de Informação 📱💻</p>
-    <p> Web desenvolvedor 🚀🌐 </p>
-    <p> Ler 📚 é vida 🥰❤️ <p>
+<div align=left>
+    <p> Sou Universitário de Sistemas de Informação 📱💻</p>
+    <p> Desenvolvedor Web 🚀🌐 </p>
+    <p> Leitura 📚 é vida ❤️ <p>
 </div>
 <br>
 
-## __Soft Skills__ 📌
-<br>
-
-<p align="center">
-Criativo 💭💡
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
-Colaborador 🤝🙋‍♂️
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-Aberto para desafios 🎯🏃‍♂️
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Comunicativo ❕❔🗨
-</p>
-<br>
-
-## __Hard Skills__ 👨‍💻
+<img src="https://image.flaticon.com/icons/png/512/2942/2942789.png" height=30em> ***Hard Skills*** 
 <br>
 
 <p align="center">
@@ -43,27 +29,48 @@ Comunicativo ❕❔🗨
 </p>
 <br/>
 
+<img src="https://image.flaticon.com/icons/png/512/273/273573.png" height=25em> ***Soft Skills***
+<br>
+
+<p align="center">
+Criativo 💭💡
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
+Colaborador 🤝🙋‍♂️
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Aberto para desafios 🎯🏃‍♂️
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Comunicativo ❕❔🗨
+</p>
+<br>
+
+
+
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=araujoleonardo310&theme=dark&show_icons=true" height="150em" align=center>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&layout=compact" height="150em" align=center>
+    <img src="https://github-readme-stats.vercel.app/api?username=araujoleonardo310&theme=dark&show_icons=true" height="150em" align=center>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&layout=compact" height="160em" align=center>
 </div>
 <br>
 
 ## Contact 📱
 <br>
 <p align="left">
-    <a href="https://github.com/araujoleonardo310">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/araujoleonardo310" height="20em">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
-    <a href="mailto:araujoleonardo310@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:araujoleonardo310@gmail.com" height="20em">
+    <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5585988511269&text=Prazer%2C%20sou%20Leonardo%20Ara%C3%BAjo%2C%20mas%20gosto%20de%20ser%20chamado%20por%20Leo.%0ASou%20universit%C3%A1rio%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%2C%0A%0AComo%20posso%20ajudar%3F">
+        <img  src="https://i.imgur.com/YyLyMPi.png" height="30em">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="mailto:araujoleonardo310@gmail.com">
+        <img src="https://i.imgur.com/tLI3d6L.png" height="30em">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/araujoleonardo310">
+        <img  src="https://i.imgur.com/LpVinhs.png" height="30em">
+    </a>   
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/leonardoaraujo310/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/leonardoaraujo310/" height="20em">
+        <img src="https://i.imgur.com/HlqBmV8.png" height="30em">
     </a>
 </p>
+
 
 
 
