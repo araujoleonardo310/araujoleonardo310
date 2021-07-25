@@ -12,8 +12,8 @@
 </div>
 <br>
 
-<div alight=center>
-    <img src="https://i.imgur.com/fMyHovI.jpeg" width=>
+<div>
+    <img src="https://i.imgur.com/fMyHovI.jpeg" align=center>
 </div>
 <br>
 
