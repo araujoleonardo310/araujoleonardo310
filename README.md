@@ -15,8 +15,8 @@
 </div>
 <br>
 
-<div>
-    <img src="https://i.imgur.com/fMyHovI.jpeg" align=center>
+<div align=center>
+    <img src="https://i.imgur.com/fMyHovI.jpeg" align=center  height=500em>
 </div>
 <br>
 
