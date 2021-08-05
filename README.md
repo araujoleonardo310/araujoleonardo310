@@ -13,7 +13,6 @@
     <p><i>Leitura é vida <img src="https://i.imgur.com/qgcu1zG.png" height=25em alt="lendo livro"></i><p>
 </div><br>
 
-
 <h3 align=center><img src="https://image.flaticon.com/icons/png/512/2942/2942789.png" height=30em alt="habilidades técnicas">Hard Skills</h3>
 <hr><br>
 
