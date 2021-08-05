@@ -1,96 +1,73 @@
-<h2><img src="https://i.imgur.com/oMwfryH.png" width="60"/><em><strong> Quais são as novidades?</strong></em></h2>
+<h1><img src="https://i.imgur.com/oMwfryH.png" width="60" alt="Olá!"><i><strong> Quais são as novidades?</strong></i></h1>
 <br>
 
-<h3><em><strong>Biografria</strong></em></h3>
+<h3><i><strong>Biografria</strong></i></h3>
 <hr>
 
 <div align=center>
     <div align=center>
-        <span><em>Sou Universitário <img src="https://i.imgur.com/RnxPlAo.png" height=25em></em></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <span><em>Sistemas de Informação <img src="https://i.imgur.com/ZylEkDh.png" height=25em></em></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <span><em>Desenvolvedor Web <img src="https://i.imgur.com/7RDi7Ox.png" height=25em><img src="https://i.imgur.com/vBUxGuu.png" height=25em></em></span>
-    </div>
-    <br>
-    <p><em>Leitura é vida <img src="https://i.imgur.com/qgcu1zG.png" height=25em></em><p>
-</div>
-<br>
+        <span><i>Sou Universitário <img src="https://i.imgur.com/RnxPlAo.png" height=25em alt="abajur"></i></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span><i>Sistemas de Informação <img src="https://i.imgur.com/ZylEkDh.png" height=25em alt="gerenciamento de dados"></i></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span><i>Desenvolvedor Web <img src="https://i.imgur.com/7RDi7Ox.png" height=25em alt="desenvolvedor trabalhando"><img src="https://i.imgur.com/vBUxGuu.png" height=25em alt="internet"></i></span>
+    </div><br>
+    <p><i>Leitura é vida <img src="https://i.imgur.com/qgcu1zG.png" height=25em alt="lendo livro"></i><p>
+</div><br>
 
-<div>
-    <img src="https://i.imgur.com/fMyHovI.jpeg" align=center>
-</div>
-<br>
 
-<img src="https://image.flaticon.com/icons/png/512/2942/2942789.png" height=30em> ***Hard Skills*** 
-<hr>
-<br>
+<h3 align=center><img src="https://image.flaticon.com/icons/png/512/2942/2942789.png" height=30em alt="habilidades técnicas">Hard Skills</h3>
+<hr><br>
 
 <div align="center">
-    <img height="40" src="https://user-images.githubusercontent.com/81859569/118542169-0330bd00-b729-11eb-9f31-88f0dbb5bd79.png">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-line.svg" alt="programação em C">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-line.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="programação em JavaScript">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Banco de dados MySql">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">       
-</div>
-<br/>
-
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub">       
+</div><br/>
 
 <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=araujoleonardo310&theme=dark&show_icons=true" height="150em">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&layout=compact" height="150em">
-</div>
-<br>
+    <img src="https://github-readme-stats.vercel.app/api?username=araujoleonardo310&theme=dark&show_icons=true" height="150em" alt="Relatório de Projetos e Contribuições">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&layout=compact" height="150em" alt="Relatório de linguages e frameWorks utilizados">
+</div><br>
 
-<img src="https://image.flaticon.com/icons/png/512/273/273573.png" height=25em> ***Soft Skills***
-<hr>
-<br>
+<h3><img src="https://image.flaticon.com/icons/png/512/273/273573.png" height=25em alt="Habilidades Comportamentais"><i>Soft Skills</i></h3>
+<hr><br>
 
 <div align="center">
-<img src="https://i.imgur.com/msOS3qe.png" height=25em> Criativo 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
-<img src="https://i.imgur.com/4V9Uap5.png" height=25em> Colaborador 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://i.imgur.com/xBBhi4P.png" height=25em> Desafiador
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/wntzPXm.png" height=25em> Comunicativo 
-</div>
-<br>
+    <img src="https://i.imgur.com/msOS3qe.png" height=25em alt="criatividade"> Criativo 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
+    <img src="https://i.imgur.com/4V9Uap5.png" height=25em alt="colaborador"> Colaborador 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <img src="https://i.imgur.com/xBBhi4P.png" height=25em alt="Desafiador"> Desafiador
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://i.imgur.com/wntzPXm.png" height=25em alt="comunicativo"> Comunicativo 
+</div><br>
 
+<h3><em>Contact </em><img src="https://image.flaticon.com/icons/png/512/3454/3454856.png" height=25em></h2>
+<hr><br>
 
-<h3><em>Contact</em> <img src="https://image.flaticon.com/icons/png/512/3454/3454856.png" height=25em></h2>
-<hr> 
-<br>
-<p align="left">
+<div align="left">
     <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5585988511269&text=Prazer%2C%20sou%20Leonardo%20Ara%C3%BAjo%2C%20mas%20gosto%20de%20ser%20chamado%20por%20Leo.%0ASou%20universit%C3%A1rio%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%2C%0A%0AComo%20posso%20ajudar%3F">
-        <img  src="https://i.imgur.com/YyLyMPi.png" height="30em">
+        <img  src="https://i.imgur.com/YyLyMPi.png" height="30em" alt="Icone do Whatssap">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="mailto:araujoleonardo310@gmail.com">
-        <img src="https://i.imgur.com/tLI3d6L.png" height="30em">
+        <img src="https://i.imgur.com/tLI3d6L.png" height="30em" alt="Icone do Gmail">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/araujoleonardo310">
-        <img  src="https://i.imgur.com/LpVinhs.png" height="30em">
+        <img  src="https://i.imgur.com/LpVinhs.png" height="30em" alt="Icon do GitHub">
     </a>   
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/leonardoaraujo310/">
-        <img src="https://i.imgur.com/HlqBmV8.png" height="30em">
+        <img src="https://i.imgur.com/HlqBmV8.png" height="30em" alt="Ícone do LinkedIn">
     </a>
-</p>
-
-
-
-
-
-
-
-
+</div>
