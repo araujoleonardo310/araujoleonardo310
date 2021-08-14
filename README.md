@@ -24,7 +24,7 @@
 
 <div align=center>
     <div align=center>
-        <span><i>Sou Universitário <img src="https://i.imgur.com/RnxPlAo.png" height=25em alt="abajur"></i></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span><i>Universitário <img src="https://i.imgur.com/RnxPlAo.png" height=25em alt="abajur"></i></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <span><i>Sistemas de Informação <img src="https://i.imgur.com/ZylEkDh.png" height=25em alt="gerenciamento de dados"></i></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <span><i>Desenvolvedor Web <img src="https://i.imgur.com/7RDi7Ox.png" height=25em alt="desenvolvedor trabalhando"><img src="https://i.imgur.com/vBUxGuu.png" height=25em alt="internet"></i></span>
     </div><br>
