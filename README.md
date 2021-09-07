@@ -1,4 +1,4 @@
-<h1><img src="https://i.imgur.com/oMwfryH.png" width="60" alt="Olá!"><i><strong>Prazer, Sou o Leonardo!</strong></i></h1>
+<h1><img src="https://i.imgur.com/oMwfryH.png" width="60" alt="Olá!"><i><strong> Sou o Leonardo!</strong></i></h1>
 <br>
 
 <div align="right">
