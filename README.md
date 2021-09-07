@@ -26,7 +26,7 @@
     <div align=center>
         <span><i>Universitário <img src="https://i.imgur.com/RnxPlAo.png" height=25em alt="abajur"></i></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <span><i>Sistemas de Informação <img src="https://i.imgur.com/ZylEkDh.png" height=25em alt="gerenciamento de dados"></i></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <span><i>Desenvolvedor Web <img src="https://i.imgur.com/7RDi7Ox.png" height=25em alt="desenvolvedor trabalhando"><img src="https://i.imgur.com/vBUxGuu.png" height=25em alt="internet"></i></span>
+        <span><i>Desenvolvedor Front-End na AjaxTI <img src="https://i.imgur.com/7RDi7Ox.png" height=25em alt="desenvolvedor trabalhando"><img src="https://i.imgur.com/vBUxGuu.png" height=25em alt="internet"></i></span>
     </div><br>
     <p><i>Leitura é vida <img src="https://i.imgur.com/qgcu1zG.png" height=25em alt="lendo livro"></i><p>
 </div><br>
@@ -42,8 +42,6 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Banco de dados MySql">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
