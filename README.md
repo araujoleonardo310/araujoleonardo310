@@ -1,57 +1,39 @@
-<h1><img src="https://i.imgur.com/oMwfryH.png" width="60" alt="Olá!"><i><strong>Prazer, Sou o Leonardo!</strong></i></h1>
+<h1><img src="https://i.imgur.com/oMwfryH.png" width="60" alt="Olá!"><i><strong>Sou o Leonardo!</strong></i></h1>
 <br>
 
-<div align="right">
-    <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5585988511269&text=Prazer%2C%20sou%20Leonardo%20Ara%C3%BAjo%2C%20mas%20gosto%20de%20ser%20chamado%20por%20Leo.%0ASou%20universit%C3%A1rio%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%2C%0A%0AComo%20posso%20ajudar%3F">
-        <img  src="https://i.imgur.com/YyLyMPi.png" height="30em" alt="Icone do Whatssap">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="mailto:araujoleonardo310@gmail.com">
-        <img src="https://i.imgur.com/tLI3d6L.png" height="30em" alt="Icone do Gmail">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/araujoleonardo310">
-        <img  src="https://i.imgur.com/LpVinhs.png" height="30em" alt="Icon do GitHub">
-    </a>   
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/leonardoaraujo310/">
-        <img src="https://i.imgur.com/HlqBmV8.png" height="30em" alt="Ícone do LinkedIn">
-    </a>
-</div>
+[![Whatssap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585985676200&text=Prazer%2C%20sou%20o%20Leonardo.%20%20Universit%C3%A1rio%20de%20sistemas%20de%20informa%C3%A7%C3%A3o%20e%20estagi%C3%A1rio%20de%20desenvolvimento%20web%20front-end%20na%20AjaxTI.%20Como%20posso%20lhe%20ajudar%3F%20)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](araujoleonardo310@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoaraujo310/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]("https://github.com/araujoleonardo310)
 
-<h3><i><strong>Biografria</strong></i></h3>
-<hr>
+<br>
+
+<h3><i><strong>Sobre mim</strong></i></h3><hr>
 
 <div align=center>
-    <div align=center>
-        <span><i>Sou Universitário <img src="https://i.imgur.com/RnxPlAo.png" height=25em alt="abajur"></i></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <span><i>Sistemas de Informação <img src="https://i.imgur.com/ZylEkDh.png" height=25em alt="gerenciamento de dados"></i></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <span><i>Desenvolvedor Web <img src="https://i.imgur.com/7RDi7Ox.png" height=25em alt="desenvolvedor trabalhando"><img src="https://i.imgur.com/vBUxGuu.png" height=25em alt="internet"></i></span>
-    </div><br>
-    <p><i>Leitura é vida <img src="https://i.imgur.com/qgcu1zG.png" height=25em alt="lendo livro"></i><p>
-</div><br>
+    <span>Universitário de Sistemas de Informação <i><img src="https://i.imgur.com/RnxPlAo.png" height=25em alt="abajur"></i> <img src="https://i.imgur.com/ZylEkDh.png" height=25em alt="gerenciamento de dados"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <span><i>Estagiário de desenvolvimento web front-end </i><img src="https://i.imgur.com/7RDi7Ox.png" height=25em alt="desenvolvedor trabalhando"><img src="https://i.imgur.com/vBUxGuu.png" height=25em alt="internet"></span>
+    <p>Leitura é vida<img src="https://i.imgur.com/qgcu1zG.png" height=25em alt="lendo livro"></p>
+</div>
 
-<h3 align=left><img src="https://image.flaticon.com/icons/png/512/2942/2942789.png" height=30em alt="habilidades técnicas"> <i>Hard Skills<i></h3>
-<hr><br>
+<br>
 
-<div align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-line.svg" alt="programação em C">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="programação em JavaScript">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Banco de dados MySql">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub">       
-</div><br/>
+<h3 align=left><img src="https://image.flaticon.com/icons/png/512/2942/2942789.png" height=30em alt="habilidades técnicas"> <i>Hard Skills<i></h3><hr>
 
-<h3><img src="https://image.flaticon.com/icons/png/512/273/273573.png" height=25em alt="Habilidades Comportamentais"> <i>Soft Skills</i></h3>
-<hr><br>
+<br>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Programação C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+    
+
+<br/>
+
+<h3><img src="https://image.flaticon.com/icons/png/512/273/273573.png" height=25em alt="Habilidades Comportamentais"> <i>Soft Skills</i></h3><hr>
+
+<br>
 
 <div align="center">
     <img src="https://i.imgur.com/msOS3qe.png" height=25em alt="criatividade"> Criativo 
@@ -61,10 +43,24 @@
     <img src="https://i.imgur.com/xBBhi4P.png" height=25em alt="Desafiador"> Desafiador
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://i.imgur.com/wntzPXm.png" height=25em alt="comunicativo"> Comunicativo 
-</div><br><br>
+</div>
+
+<br><br>
 
 
 <div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=araujoleonardo310&theme=dark&show_icons=true" height="150em" alt="Relatório de Projetos e Contribuições">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&layout=compact" height="150em" alt="Relatório de linguages e frameWorks utilizados">
-</div><br>
+</div>
+
+<br>
+
+<h3 align=left><img src="https://cdn.icon-icons.com/icons2/2331/PNG/512/hobbies_hobby_activity_lifestyle_free_time_icon_142248.png" height=30em alt="habilidades técnicas"> <i>Hobbies & Atividades<i></h3><hr>
+
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+
+<br>
