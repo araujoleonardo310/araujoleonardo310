@@ -63,5 +63,8 @@
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-
 <br>
+
+<div align="center">
+<img  width="600" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif">
+</div>
