@@ -1,4 +1,4 @@
-<h1><img src="https://i.imgur.com/oMwfryH.png" width="60" alt="Olá!"><i><strong>Sou o Leonardo!</strong></i></h1>
+<h1><i><strong> Hi! I am Leo <img src="https://user-images.githubusercontent.com/81859569/147949356-ab5456a9-ba8e-408e-8a96-2c7f0da854fb.png" width=80em/></strong></i></h1>
 <br>
 
 [![Whatssap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585985676200&text=Prazer%2C%20sou%20o%20Leonardo.%20%20Universit%C3%A1rio%20de%20sistemas%20de%20informa%C3%A7%C3%A3o%20e%20estagi%C3%A1rio%20de%20desenvolvimento%20web%20front-end%20na%20AjaxTI.%20Como%20posso%20lhe%20ajudar%3F%20)
